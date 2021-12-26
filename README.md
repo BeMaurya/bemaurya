@@ -1,4 +1,4 @@
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shubham Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> नमस्ते 🙏🏻 , I'm Shubham Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
@@ -21,13 +21,13 @@
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harikanani/](https://github.com/harikanani/)
+- 👨‍💻 All of my projects are available at [https://github.com/bewithmaurya/](https://github.com/bewithmaurya/)
 
-- 💬 Ask me about **Python,JavaScript,Node.Js**
+- 💬 Ask me about **Java,Python,Android**
 
-- 📫 How to reach me **harikanani2003@gmail.com**
+- 📫 How to reach me **bewithmaurya@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/harikrushn-kanani/](https://www.linkedin.com/in/harikrushn-kanani/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/itsshubh/](https://www.linkedin.com/in/itsshubh/)
 
 - ⚡ Fun fact **I love to code**
 
