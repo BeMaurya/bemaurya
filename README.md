@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **bewithmaurya@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/itsshubh/](https://www.linkedin.com/in/itsshubh/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/itsshubh/](https://www.linkedin.com/in/bewithmaurya/)
 
 - ⚡ Fun fact **I love to code**
 
