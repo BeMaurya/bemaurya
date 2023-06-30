@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Java,Python,Android**
 
-- 📫 How to reach me **bewithmaurya@gmail.com**
+- 📫 How to reach me **dev.bemaurya@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bemaurya/](https://www.linkedin.com/in/bemaurya/)
 
