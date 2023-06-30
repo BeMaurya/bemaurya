@@ -6,10 +6,10 @@
 ## 💡 Connect with me :
 <p align="left"> 
 <a href="https://twitter.com/bewithmaurya" target="blank"><img src="https://img.shields.io/twitter/follow/bewithmaurya?logo=twitter&style=for-the-badge" alt="bewithmaurya" /></a>&nbsp
-<a href="https://www.linkedin.com/in/bewithmaurya"><img src="https://img.shields.io/badge/-Shubham%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="https://www.linkedin.com/in/bemaurya"><img src="https://img.shields.io/badge/-Shubham%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
 <a href="http:/bewithmaurya.github.io/" target="_blank"><img src="https://img.shields.io/website?label=bewithmaurya.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fbewithmaurya.github.io" alt="bewithmaurya.github.io" /></a>&nbsp
-   <a href="mailto:harikanani2003@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bewithmaurya@gmail.com" />
+   <a href="mailto:dev.bemaurya@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dev.bemaurya@gmail.com" />
   </a>
 </p>
 
@@ -19,13 +19,13 @@
 
 - 🌱 I’m currently learning **Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bewithmaurya/](https://github.com/bewithmaurya/)
+- 👨‍💻 All of my projects are available at [https://github.com/bemaurya/](https://github.com/bemaurya/)
 
 - 💬 Ask me about **Java,Python,Android**
 
 - 📫 How to reach me **bewithmaurya@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bewithmaurya/](https://www.linkedin.com/in/bewithmaurya/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/bemaurya/](https://www.linkedin.com/in/bemaurya/)
 
 - ⚡ Fun fact **I love to code**
 
@@ -128,11 +128,11 @@
 
 ## ✨GitHub Stats  : 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bewithmaurya&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bewithmaurya&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bemaurya&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bemaurya&theme=tokyonight" />
 </div>
 
 <br/>  
 
-![bewithmaurya's github activity graph](https://activity-graph.herokuapp.com/graph?username=bewithmaurya&theme=nord) 
+![bemaurya's github activity graph](https://activity-graph.herokuapp.com/graph?username=bemaurya&theme=nord) 
 
