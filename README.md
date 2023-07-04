@@ -133,6 +133,10 @@
 </div>
 
 <br/>  
+<p align="center"> 
+  Visitor Count (from 02-08-2021)<br>
+  <img src="https://profile-counter.glitch.me/Beagarwal/count.svg" />
+</p>
 
 ![bemaurya's github activity graph](https://activity-graph.herokuapp.com/graph?username=bemaurya&theme=nord) 
 
