@@ -7,7 +7,7 @@
 <p align="left"> 
 <a href="https://twitter.com/bewithmaurya" target="blank"><img src="https://img.shields.io/twitter/follow/bewithmaurya?logo=twitter&style=for-the-badge" alt="bewithmaurya" /></a>&nbsp
 <a href="https://www.linkedin.com/in/bemaurya"><img src="https://img.shields.io/badge/-Shubham%20Kumar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
-<a href="http:/bewithmaurya.github.io/" target="_blank"><img src="https://img.shields.io/website?label=bewithmaurya.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fbewithmaurya.github.io" alt="bewithmaurya.github.io" /></a>&nbsp
+<a href="http:/bemaurya.github.io/" target="_blank"><img src="https://img.shields.io/website?label=bemaurya.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fbemaurya.github.io" alt="bemaurya.github.io" /></a>&nbsp
    <a href="mailto:dev.bemaurya@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dev.bemaurya@gmail.com" />
   </a>
